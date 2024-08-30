@@ -1,0 +1,4 @@
+NFuncionario, Nome, Hl, Ba, Nm, DataEntrada, verInfo
+1,1,1,1,1,18-04-2023,Estagiario n<<1>> | <<nome>>  Entrada: <<18-04-2023>> | Saida: <<2023-05-18>> Montante total a pagar pela empresa: <<0.25>> EUR
+2,2,9,500,9,18-04-2023,Estagiario n<<2>> | <<nome>>  Entrada: <<18-04-2023>> | Saida: <<2024-01-18>> Montante total a pagar pela empresa: <<225.0>> EUR
+8,8,8,8,8,19-04-2023,Estagiario n<<8>> | <<nome>>  Entrada: <<19-04-2023>> | Saida: <<2023-12-19>> Montante total a pagar pela empresa: <<2.0>> EUR
